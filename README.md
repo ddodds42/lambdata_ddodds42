@@ -2,6 +2,11 @@
 Unit 3, Sprint 1
 
 '''
+install from https://test.pypi.org/project/ddodds/0.0.1/
+pip install -i https://test.pypi.org/simple/ ddodds==0.0.1
+'''
+
+'''
 in dd_mod.py, km_to_mile converts km values into miles, and
 t_val_t splits a dataframe into 4 parts; explore, train, test, and
 val. Explore and test are split from the original dataframe, train
