@@ -2,8 +2,8 @@
 Unit 3, Sprint 1
 
 '''
-install from https://test.pypi.org/project/ddodds/0.0.1/
-pip install -i https://test.pypi.org/simple/ ddodds==0.0.1
+install from https://test.pypi.org/project/ddodds/0.1.1/
+pip install -i https://test.pypi.org/simple/ ddodds==0.1.1
 '''
 
 '''
