@@ -9,8 +9,8 @@ setuptools.setup(
     author="ddodds42",
     # author_email="author@example.com",
     description="MetricConvert",
-    long_description=long_description,
-    long_description_content_type="new class created to instantiate metric converters",
+    # long_description=long_description,
+    # long_description_content_type="text/markdown",
     url="https://github.com/ddodds42/lambdata_ddodds42",
     packages=setuptools.find_packages(),
     classifiers=[
