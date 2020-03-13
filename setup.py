@@ -5,12 +5,12 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ddodds", # Replace with your own username
-    version="0.0.1",
-    author="D.A. Dodds",
+    version="0.1.1",
+    author="ddodds42",
     # author_email="author@example.com",
-    description="First test package",
-    # long_description=long_description,
-    # long_description_content_type="text/markdown",
+    description="MetricConvert",
+    long_description=long_description,
+    long_description_content_type="new class created to instantiate metric converters",
     url="https://github.com/ddodds42/lambdata_ddodds42",
     packages=setuptools.find_packages(),
     classifiers=[
